@@ -3,16 +3,52 @@
 </div>
 <h1 align="center">Hi There, I'm Arda Mehmet Dincer 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arda-mehmet-dincer&label=Profile%20views&color=0e75b6&style=flat" alt="arda-mehmet-dincer" /> </p>
+<br>
 
-<p>My name is Arda and i am studying Electrical-Electronics Engineering at Izmir Yasar University in Turkey.</p>
+<p>📌My name is Arda and i am studying Electrical-Electronics Engineering at Izmir Yasar University in Turkey.</p>
 
-* [Hackerrank](https://www.hackerrank.com/profile/dincerarda73)
+<br>
+<br>
+<h3 align="left">📫Socials:</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/arda-mehmet-dinçer-369a142b4/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+  <a href="mailto:dincerarda73@gmail.com?"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.hackerrank.com/profile/dincerarda73"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  /></a>
+</div>
+
 <br>
 
 <p align="left">
 </p>
+<br>
+<h3 align="left">💻Languages and Tools:</h3>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<br>
+<br>
+
+<h3 align="left">📊GitHub Stats:</h3>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arda-Mehmet-Dincer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arda-Mehmet-Dincer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+<br>
+<br>
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/Arda-Mehmet-Dincer/count.svg?"  />
+</div>
 
