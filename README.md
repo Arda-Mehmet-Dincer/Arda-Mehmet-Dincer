@@ -8,7 +8,7 @@
 <p>My name is Arda and i am studying Electrical-Electronics Engineering at Izmir Yasar University in Turkey.</p>
 
 * [Hackerrank](https://www.hackerrank.com/profile/dincerarda73)
-
+* [Email](dincerarda73@gmail.com)
 <br>
 
 <p align="left">
