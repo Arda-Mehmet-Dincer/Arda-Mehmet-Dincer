@@ -2,9 +2,12 @@
   <h3>Welcome to my GitHub!</h3>
 </div>
 <h1 align="center">Hi There, I'm Arda Mehmet Dincer 👋</h1>
-<p>My name is Arda and i am studying Electrical-Electronics Engineering at Izmir Yasar University in Turkey</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arda-mehmet-dincer&label=Profile%20views&color=0e75b6&style=flat" alt="arda-mehmet-dincer" /> </p>
+
+<p>My name is Arda and i am studying Electrical-Electronics Engineering at Izmir Yasar University in Turkey</p>
+
+
 
 
 <p align="left">
