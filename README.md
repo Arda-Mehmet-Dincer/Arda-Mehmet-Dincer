@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h4>Welcome to my GitHub!</h4>
+  <h3>Welcome to my GitHub!</h3>
 </div>
 <h1 align="center">Hi There, I'm Arda Mehmet Dincer 👋</h1>
 <p>My name is Arda and i am studying Electrical-Electronics Engineering at Izmir Yasar University in Turkey</p>
