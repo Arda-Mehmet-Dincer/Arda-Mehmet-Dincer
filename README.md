@@ -5,10 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arda-mehmet-dincer&label=Profile%20views&color=0e75b6&style=flat" alt="arda-mehmet-dincer" /> </p>
 
-<p>My name is Arda and i am studying Electrical-Electronics Engineering at Izmir Yasar University in Turkey</p>
+<p>My name is Arda and i am studying Electrical-Electronics Engineering at Izmir Yasar University in Turkey.</p>
+<br>
 
+* [Hackerrank](https://www.hackerrank.com/profile/dincerarda73)
 
-
+<br>
 
 <p align="left">
 </p>
