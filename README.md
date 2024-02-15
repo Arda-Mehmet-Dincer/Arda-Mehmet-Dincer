@@ -26,15 +26,13 @@
 <br>
 <h3 align="left">💻Languages and Tools:</h3>
 <div align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
+  <a href= "https://www.python.org"><img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  /></a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
+  <a href="https://www.postgresql.org"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  /> </a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="sqlite logo"  />
+  <a href = "https://www.sqlite.org/index.html"><img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="sqlite logo"  /> </a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <a href = ""https://git-scm.com><img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  /> </a>
 </div>
 
 <br>
