@@ -20,7 +20,6 @@
   <a href="https://www.kaggle.com/ardamehmetdiner"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=0080B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Kaggle logo"/></a>
 </div>
 
-
 <br>
 
 <p align="left">
