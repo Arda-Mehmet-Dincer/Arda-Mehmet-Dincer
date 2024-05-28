@@ -14,10 +14,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/arda-mehmet-dinçer-369a142b4/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
-  <a href="mailto:dincerarda73@gmail.com?"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.hackerrank.com/profile/ardamehmetdincer"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  /></a>
-  <a href="https://www.kaggle.com/ardamehmetdincer"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=0080B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Kaggle logo"/></a>
+  <a href="https://www.linkedin.com/in/arda-mehmet-dinçer-369a142b4/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+  <a href="mailto:dincerarda73@gmail.com?" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.hackerrank.com/profile/ardamehmetdincer" target="_blank"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  /></a>
+  <a href="https://www.kaggle.com/ardamehmetdincer" target="_blank"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=0080B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Kaggle logo"/></a>
 </div>
 
 <br>
